@@ -19,12 +19,28 @@ html, body {
   padding-bottom: 0ch;
 }
 
-.label{
-  display: flex;
-  width: 250px;
-  height: 50px;    
-  justify-content: center;
-  align-items: center;
-  font-family: 'Montserrat', sans-serif;
-  background-color: #9973E9;
+#p1Button{
+	font-size: 1.1rem;
+  text-align: center;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 20px;
+  border: 2px solid darkgray;
+  border-radius: 25px;
+  border-spacing: 2px;
+  box-shadow: 7px 7px 5px rgba(12, 12, 12, 0.77);
+  background-color: #ffffff;
+}
+
+#p2Button{
+	font-size: 1.1rem;
+  text-align: center;
+  padding: 10px;
+  margin-left: 0px;
+  margin-right: 50px;
+  border: 2px solid darkgray;
+  border-radius: 25px;
+  border-spacing: 2px;
+  box-shadow: 7px 7px 5px rgba(12, 12, 12, 0.77);
+  background-color: #ffffff;
 }
